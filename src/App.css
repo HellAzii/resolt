@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0; 
+  box-size: border-box;
+}
+
+.photo {
+  border: 2px solid silver lightgray;
+  border-radius: 9px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 2rem;
+}
